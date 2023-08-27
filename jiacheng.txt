@@ -1,0 +1,10 @@
+1. 了解vim,(两周,第三周可以完全转到vim开发)
+看b站课程【玩转Vim-从放弃到入门】https://www.bilibili.com/video/BV1NG4y1p74h?vd_source=83dda7469933b46fcc614109e61a8066)
+推荐github书籍:https://github.com/wsdjeg/Learn-Vim_zh_cn)
+https://github.com/wsdjeg/hello-vim
+2. 了解git, (在使用中学习)
+看b站课程(速成【30分钟弄懂所有工作Git必备操作 / Git 入门教程】https://www.bilibili.com/video/BV1pX4y1S7Dq?vd_source=83dda7469933b46fcc614109e61a8066), 可以去找找其他的课程
+git书籍(微信发你的)
+3. 了解linux,(狠狠的卷同学)
+b站课程(【黑马程序员新版Linux零基础快速入门到精通，全涵盖linux系统知识、常用软件环境部署、Shell脚本、云平台实践、大数据集群项目实战等】https://www.bilibili.com/video/BV1n84y1i7td?vd_source=83dda7469933b46fcc614109e61a8066)
+看linux书籍
